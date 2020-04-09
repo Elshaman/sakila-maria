@@ -27,12 +27,23 @@ Algunos clientes recomendados para MariaDB:
 
 ### Características y Dominio de Problema
 
->La base de datos de ejemplo de Sakila fue desarrollada inicialmente por Mike Hillyer, un ex miembro del equipo de documentación de MySQL AB, y está destinada a proporcionar un esquema estándar que puede usarse para ejemplos en libros, tutoriales, artículos, muestras, etc. La base de datos de muestra de Sakila también sirve para resaltar características de MySQL como __Vistas, Procedimientos almacenados y Triggers__.[Sitio Oficial de Sakila en dev.mysql.com](https://dev.mysql.com/doc/sakila/en/sakila-introduction.html).
+>La base de datos de ejemplo de Sakila fue desarrollada inicialmente por Mike Hillyer, un ex miembro del equipo de documentación de MySQL AB, y está destinada a proporcionar un esquema estándar que puede usarse para ejemplos en libros, tutoriales, artículos, muestras, etc. La base de datos de muestra de Sakila también sirve para resaltar características de MySQL como __Vistas, Procedimientos almacenados y Triggers__.
+
+Extraido de[Sitio Oficial de Sakila en dev.mysql.com](https://dev.mysql.com/doc/sakila/en/sakila-introduction.html).
 
 ##### El Modelo relacional de sakila:
 
 ![Modelo Relacional Sakila](http://programandoamimanera.com/wp-content/uploads/2018/12/sakila.png)
 
+Cómo se puede apreciar, Sakila modela conceptos involucrados en un dominio de problema de __Alquiler de Peliculas__(En cualquier formato, aunque en principio formato DVD). La siguiente tabla muestra los subdominios de sakila
+
+| Zona                      | Color   | Entidades                                                                            |
+| --------------------------|---------| ------------------------------------------------------------------------------------:|
+| Clientes                  | Naranja |  Paises, Ciudades, Clientes y sus direcciones                                        |
+| Películas                 | Azul    | Peliculas, Actores, Categorías de Película y Existencias en inventario por película  |
+| Alquileres, Transacciones | verde   | Alquileres, Pagos, Tiendas y empleados                                               |
+
+***
 
 ### Agradecimientos
 
