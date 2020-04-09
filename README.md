@@ -8,7 +8,7 @@ La base de datos sakila es una base de datos utilizada por __Mysql__ para el apr
 
 ***
 
-### Instalación
+# Instalación
 
 En cualquier tipo de cliente de base de datos para MariaDB(Gráfico o no):
 
@@ -24,6 +24,12 @@ Algunos clientes recomendados para MariaDB:
     - MysqlWorkbench(Puede generar algunos errores)    
   
 ***
+
+### Características y Dominio de Problema
+
+>La base de datos de muestra de Sakila fue desarrollada inicialmente por Mike Hillyer, un ex miembro del equipo de documentación de MySQL AB, y está destinada a proporcionar un esquema estándar que puede usarse para ejemplos en libros, tutoriales, artículos, muestras, etc. La base de datos de muestra de Sakila también sirve para resaltar características de MySQL como __Vistas, Procedimientos almacenados y Triggers__.
+
+
 
 ### Agradecimientos
 
