@@ -38,7 +38,7 @@ Extraido de[Sitio Oficial de Sakila en dev.mysql.com](https://dev.mysql.com/doc/
 Cómo se puede apreciar, Sakila modela conceptos involucrados en un dominio de problema de __Alquiler de Peliculas__(En cualquier formato, aunque en principio formato DVD). La siguiente tabla muestra los subdominios de sakila
 
 | Zona                      | Color   | Entidades                                                                            |
-| --------------------------|---------| ------------------------------------------------------------------------------------:|
+| --------------------------|---------|:-------------------------------------------------------------------------------------|
 | Clientes                  | Naranja |  Paises, Ciudades, Clientes y sus direcciones                                        |
 | Películas                 | Azul    | Peliculas, Actores, Categorías de Película y Existencias en inventario por película  |
 | Alquileres, Transacciones | verde   | Alquileres, Pagos, Tiendas y empleados                                               |
