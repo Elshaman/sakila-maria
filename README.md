@@ -13,11 +13,11 @@ En cualquier tipo de cliente de base de datos para MariaDB(Gráfico o no):
 
 Algunos clientes recomendados para MariaDB:
 - Windows:
-    -HeidiSQL
-    -SQLYog
--Linux/mac:   
-    -DataGrip
-    -MysqlWorkbench(Puede generar algunos errores)    
+    - HeidiSQL
+    - SQLYog
+- Linux/mac:   
+    - DataGrip
+    - MysqlWorkbench(Puede generar algunos errores)    
   
 
 ### Agradecimientos
