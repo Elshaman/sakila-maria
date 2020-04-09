@@ -15,7 +15,7 @@ Algunos clientes recomendados para MariaDB:
 - Windows:
     -HeidiSQL
     -SQLYog
--Linux/mac    
+-Linux/mac:   
     -DataGrip
     -MysqlWorkbench(Puede generar algunos errores)    
   
