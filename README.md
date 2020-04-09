@@ -27,8 +27,11 @@ Algunos clientes recomendados para MariaDB:
 
 ### Características y Dominio de Problema
 
->La base de datos de muestra de Sakila fue desarrollada inicialmente por Mike Hillyer, un ex miembro del equipo de documentación de MySQL AB, y está destinada a proporcionar un esquema estándar que puede usarse para ejemplos en libros, tutoriales, artículos, muestras, etc. La base de datos de muestra de Sakila también sirve para resaltar características de MySQL como __Vistas, Procedimientos almacenados y Triggers__.
+>La base de datos de ejemplo de Sakila fue desarrollada inicialmente por Mike Hillyer, un ex miembro del equipo de documentación de MySQL AB, y está destinada a proporcionar un esquema estándar que puede usarse para ejemplos en libros, tutoriales, artículos, muestras, etc. La base de datos de muestra de Sakila también sirve para resaltar características de MySQL como __Vistas, Procedimientos almacenados y Triggers__.[Sitio Oficial de Sakila en dev.mysql.com](https://dev.mysql.com/doc/sakila/en/sakila-introduction.html).
 
+##### El Modelo relacional de sakila:
+
+![Modelo Relacional Sakila](http://programandoamimanera.com/wp-content/uploads/2018/12/sakila.png)
 
 
 ### Agradecimientos
